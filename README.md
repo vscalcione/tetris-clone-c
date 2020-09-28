@@ -1,6 +1,6 @@
 ## tetris-clone-c
 
-A plain tetris game clone made in C.
+A plain tetris game clone made in C programming language.
 
 ![cprogramming-logo](https://img.icons8.com/color/96/000000/c-programming.png)
 
@@ -15,3 +15,4 @@ Then, you can run the make file for the building of all sources files and run th
 $ make
 $ ./tetris-clone-c
 ```
+
